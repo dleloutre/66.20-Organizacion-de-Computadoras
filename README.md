@@ -1,5 +1,3 @@
-# OrgaDeComputadoras
-
 TP0:
 https://www.overleaf.com/2529714456qsqcjnmtkwmt
 
